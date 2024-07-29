@@ -1,0 +1,27 @@
+{
+  "name": "qezdrw--run",
+  "version": "0.0.0",
+  "private": true,
+  "dependencies": {
+    "@syncfusion/ej2-base": "26.2.5",
+    "@syncfusion/ej2-buttons": "26.2.5",
+    "@syncfusion/ej2-calendars": "26.2.5",
+    "@syncfusion/ej2-dropdowns": "26.2.5",
+    "@syncfusion/ej2-inputs": "26.2.5",
+    "@syncfusion/ej2-splitbuttons": "26.2.5",
+    "@syncfusion/ej2-querybuilder": "26.2.5",
+    "@types/crossroads": "0.0.28",
+    "@types/signals": "0.0.16",
+    "@types/moment-timezone": "0.5.30",
+    "@types/hasher": "0.0.27",
+    "fuse.js": "3.6.1",
+    "marked": "0.3.19",
+    "codemirror": "5.65.17",
+    "crossroads": "0.12.2",
+    "@types/marked": "0.3.0",
+    "@types/codemirror": "0.0.56",
+    "@types/es6-promise": "0.0.28",
+    "hasher": "1.2.0",
+    "moment-timezone": "0.5.45"
+  }
+}
